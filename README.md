@@ -1,11 +1,3 @@
 # atlantis
 
-This project aims to give students hands-on experience in:  
-Designing and implementing a fully-functional Web application. Using well-known application patterns such as MVC. Using JDBC and related technologies to maintain persistence of user data. 
-
-The theme of assignment will be oriented around action sites, similar to eBay. Auction sites such as eBay and like have revolutionised consumer-to-consumer business by allowing ordinary people to easily trade with each other. 
-
-Your assignment is to design and implement a web application that allows users to offer items for auctions and participate in competitive bidding.
-
-GROUP MEMBER:
-Chui
+Atlantis (Ancient Greek: Ἀτλαντὶς νῆσος, "island of Atlas") is a fictional island mentioned within an allegory on the hubris of nations in Plato's works Timaeus and Critias, where it represents the antagonist naval power that besieges "Ancient Athens", the pseudo-historic embodiment of Plato's ideal state (see The Republic). In the story, Athens was able to repel the Atlantean attack, unlike any other nation of the (western) known world supposedly giving testament to the superiority of Plato's concept of a state. At the end of the story, Atlantis eventually falls out of favor with the gods and famously submerges into the Atlantic Ocean.
